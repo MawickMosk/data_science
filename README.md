@@ -5,4 +5,5 @@
 *[Проект 0. Игра: Угадай число](https://github.com/MawickMosk/IDE1/blob/master/game_v2.py)
 
 *[Проект 1. ___] ()
+
 *[Проект 2. ___] ()
