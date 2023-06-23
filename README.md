@@ -1,2 +1,2 @@
 # data_science
-SF homeworck
+SF homework
