@@ -10,11 +10,11 @@ def random_predict(number:int=1) -> int:
     Returns:
         int: число попыток
     """
-    count = 0
+    count = 1
     
     predict_number = np.random.randint(1,101) # предполагаемое число
     while predict_number != number:
-       
+        #count += 1
         if predict_number < number:
             while True:
                 count += 1
