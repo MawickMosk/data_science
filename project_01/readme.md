@@ -30,7 +30,7 @@
 
 
 ### Результаты:  
-Алгоритм угадывает число в среднем за 9 попыток
+[Алгоритм угадывает число в среднем за 9 попыток] (https://github.com/MawickMosk/data_science/blob/main/project_01/game_v3.py)
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
